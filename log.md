@@ -5,7 +5,7 @@
 
 **Today's Progress**: Went back to re-learning basics of Java and did Java fundamentals on hackerrank
 
-**Thoughts:** I'm getting better at it again but I did to pick up the pace tomorrow
+**Thoughts:** I'm getting better at it again but I need to pick up the pace tomorrow
 
 **Link to work:** 
 
